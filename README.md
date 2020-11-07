@@ -7,6 +7,7 @@ First attemt at Building and app and conect it to Firebase
 some text 
 whatever 
 unmögliche scheiß seit 30min will ich mein erster commit durchführen 
+At the end it was almost 4 hours just to set up (ssh Key)
 
 
 
