@@ -12,8 +12,6 @@ Still no succes 22:00
 Succes 22:10!!!!! 
 Na ja so halb succes
 
-## New Branch created 
-1. Open index.html in your browser
 
 
 
