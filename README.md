@@ -14,6 +14,8 @@ Na ja so halb succes
 
 ## New Branch created 
 1. Open index.html in your browser
+fatal: feature/readme-new kann nicht zu Branch aufgelöst werden.
+It took me 20 min to figure out that Caps matter
 
 
 
